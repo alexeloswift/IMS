@@ -1,0 +1,14 @@
+c:\Users\Alexis\Desktop\IMS\MyWinFormsApp\bin\Debug\net8.0-windows\MyWinFormsApp.exe
+c:\Users\Alexis\Desktop\IMS\MyWinFormsApp\bin\Debug\net8.0-windows\MyWinFormsApp.deps.json
+c:\Users\Alexis\Desktop\IMS\MyWinFormsApp\bin\Debug\net8.0-windows\MyWinFormsApp.runtimeconfig.json
+c:\Users\Alexis\Desktop\IMS\MyWinFormsApp\bin\Debug\net8.0-windows\MyWinFormsApp.dll
+c:\Users\Alexis\Desktop\IMS\MyWinFormsApp\bin\Debug\net8.0-windows\MyWinFormsApp.pdb
+c:\Users\Alexis\Desktop\IMS\MyWinFormsApp\obj\Debug\net8.0-windows\MyWinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alexis\Desktop\IMS\MyWinFormsApp\obj\Debug\net8.0-windows\MyWinFormsApp.AssemblyInfoInputs.cache
+c:\Users\Alexis\Desktop\IMS\MyWinFormsApp\obj\Debug\net8.0-windows\MyWinFormsApp.AssemblyInfo.cs
+c:\Users\Alexis\Desktop\IMS\MyWinFormsApp\obj\Debug\net8.0-windows\MyWinFormsApp.csproj.CoreCompileInputs.cache
+c:\Users\Alexis\Desktop\IMS\MyWinFormsApp\obj\Debug\net8.0-windows\MyWinFormsApp.dll
+c:\Users\Alexis\Desktop\IMS\MyWinFormsApp\obj\Debug\net8.0-windows\refint\MyWinFormsApp.dll
+c:\Users\Alexis\Desktop\IMS\MyWinFormsApp\obj\Debug\net8.0-windows\MyWinFormsApp.pdb
+c:\Users\Alexis\Desktop\IMS\MyWinFormsApp\obj\Debug\net8.0-windows\MyWinFormsApp.genruntimeconfig.cache
+c:\Users\Alexis\Desktop\IMS\MyWinFormsApp\obj\Debug\net8.0-windows\ref\MyWinFormsApp.dll
