@@ -130,7 +130,7 @@ namespace MyWinFormsApp
 
                 if (result == DialogResult.Yes)
                 {
-                    product?.RemoveAssociatedPart(selectedAssociatedPart.PartID);
+                    AssociatedParts.Remove(selectedAssociatedPart);
                     LoadAssociatedPartsData();
                     MessageBox.Show($"Part {selectedCandidatePart?.Name} has been deleted from associated parts list.");
                 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexis\\Desktop\\IMS\\MyWinFormsApp\\MyWinFormsApp.csproj": {}
+    "c:\\Users\\Alexis\\Desktop\\IMS\\MyWinFormsApp\\MyWinFormsApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alexis\\Desktop\\IMS\\MyWinFormsApp\\MyWinFormsApp.csproj": {
+    "c:\\Users\\Alexis\\Desktop\\IMS\\MyWinFormsApp\\MyWinFormsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexis\\Desktop\\IMS\\MyWinFormsApp\\MyWinFormsApp.csproj",
+        "projectUniqueName": "c:\\Users\\Alexis\\Desktop\\IMS\\MyWinFormsApp\\MyWinFormsApp.csproj",
         "projectName": "MyWinFormsApp",
-        "projectPath": "C:\\Users\\Alexis\\Desktop\\IMS\\MyWinFormsApp\\MyWinFormsApp.csproj",
+        "projectPath": "c:\\Users\\Alexis\\Desktop\\IMS\\MyWinFormsApp\\MyWinFormsApp.csproj",
         "packagesPath": "C:\\Users\\Alexis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexis\\Desktop\\IMS\\MyWinFormsApp\\obj\\",
+        "outputPath": "c:\\Users\\Alexis\\Desktop\\IMS\\MyWinFormsApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexis\\AppData\\Roaming\\NuGet\\NuGet.Config"

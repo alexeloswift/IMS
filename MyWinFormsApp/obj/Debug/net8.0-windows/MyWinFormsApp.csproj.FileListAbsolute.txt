@@ -12,3 +12,4 @@ c:\Users\Alexis\Desktop\IMS\MyWinFormsApp\obj\Debug\net8.0-windows\refint\MyWinF
 c:\Users\Alexis\Desktop\IMS\MyWinFormsApp\obj\Debug\net8.0-windows\MyWinFormsApp.pdb
 c:\Users\Alexis\Desktop\IMS\MyWinFormsApp\obj\Debug\net8.0-windows\MyWinFormsApp.genruntimeconfig.cache
 c:\Users\Alexis\Desktop\IMS\MyWinFormsApp\obj\Debug\net8.0-windows\ref\MyWinFormsApp.dll
+c:\Users\Alexis\Desktop\IMS\MyWinFormsApp\obj\Debug\net8.0-windows\MyWinFormsApp.sourcelink.json

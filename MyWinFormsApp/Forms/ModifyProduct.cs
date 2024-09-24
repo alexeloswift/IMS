@@ -144,7 +144,7 @@ namespace MyWinFormsApp
             if (dataGridViewAssociatedParts.SelectedRows.Count > 0)
             {
                 selectedAssociatedPart = (Part)dataGridViewAssociatedParts.SelectedRows[0].DataBoundItem;
-                var result = MessageBox.Show($"Are you sure you want to delete Part {selectedAssociatedPart.Name} from your inventory?", "Confirm Delete",
+                var result = MessageBox.Show($"Are you sure you want to remove Part {selectedAssociatedPart.Name} from the associated parts?", "Confirm Delete",
                 MessageBoxButtons.YesNo,
                 MessageBoxIcon.Warning);
 
