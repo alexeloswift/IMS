@@ -132,7 +132,7 @@ namespace MyWinFormsApp
                 {
                     AssociatedParts.Remove(selectedAssociatedPart);
                     LoadAssociatedPartsData();
-                    MessageBox.Show($"Part {selectedCandidatePart?.Name} has been deleted from associated parts list.");
+                    MessageBox.Show($"Part {selectedAssociatedPart.Name} has been deleted from associated parts list.");
                 }
             }
             else
