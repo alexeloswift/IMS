@@ -239,6 +239,14 @@ namespace MyWinFormsApp
                 return;
             }
 
+            var associatedProduct = Inventory.Products.FirstOrDefault(product => product.AssociatedParts.Any(part => part.PartID == selectedPart.PartID));
+
+            if (associatedProduct != null)
+            {
+                MessageBox.Show($"You can't delete this part because it is associated with {associatedProduct.Name}.", "Part Associated", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
             var result = MessageBox.Show(
                 $"Are you sure you want to delete Part {selectedPart.Name} from your inventory?",
                 "Confirm Delete",
@@ -252,5 +260,6 @@ namespace MyWinFormsApp
                 MessageBox.Show($"{selectedPart.Name} has been deleted.", "Part Deleted", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
+
     }
 }
